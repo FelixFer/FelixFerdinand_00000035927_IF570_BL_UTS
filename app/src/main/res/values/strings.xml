@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FelixFerdinand_00000035927_IF570_BL_UTS</string>
+    <string name="title">SFX Library and Previewer</string>
+    <string name="profile">PROFILE</string>
+    <string name="library">LIBRARY</string>
+    <string name="name">Felix Ferdinand</string>
+    <string name="nim">00000035927</string>
+    <string name="kelas">IF 570 - BL</string>
+    <string name="loginInput">Masukkan nama Anda</string>
+    <string name="next">NEXT</string>
+    <string name="keProfile">Go to profile</string>
+    <string name="keMain">Go to main</string>
+    <string name="playSfx">PLAY SFX</string>
+    <string name="reference">REFERENCE:</string>
+
+    <!-- Referensi -->
+    <string name="link1"><a href="https://youtu.be/gLJUAaCGeeQ">Circular Image</a></string>
+    <string name="link2"><a href="https://youtu.be/IxhIa3eZxz8">Login Text Input</a></string>
+    <string name="link3"><a href="https://youtu.be/wjhKXQ9zJqM">Validation Input</a></string>
+    <string name="link4"><a href="https://youtu.be/kknBxoCOYXI">Menu In Action Bar (part1)</a></string>
+    <string name="link5"><a href="https://youtu.be/zwabHRv2taA">Menu In Action Bar (part2)</a></string>
+    <string name="link6"><a href="https://www.youtube.com/playlist?list=PLa6D44cKrtoNsSnFIatbovDrlalZ7RQGQ">RecyclerView</a></string>
+    <string name="link7"><a href="https://youtu.be/Nw9JF55LDzE?list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HNtf4">RecyclerView Design</a></string>
+    <string name="link8"><a href="https://youtu.be/HMjI7cLsyfw?list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HNtf4">Remove RecyclerView</a></string>
+    <string name="link9"><a href="https://youtu.be/C_Ka7cKwXW0">Media Player</a></string>
+</resources>
